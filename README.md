@@ -6,5 +6,5 @@ Jalankan Skrip Python : Pastikan Anda berada di direktori proyek, lalu jalankan 
 python open_library_data_science.py
 
 # Struktur File
-scraping.py: Skrip utama proyek yang berfungsi untuk mengambil data dari Open Library.
+Scraping.ipynb: Skrip utama proyek yang berfungsi untuk mengambil data dari Open Library.
 data_science_books_csv: File hasil pengumpulan data dari Open Library yang berisi informasi tentang berbagai buku berkaitan dengan Data Science, mencakup judul, penulis, tahun penerbitan, jumlah halaman, URL gambar sampul, dan subjek buku.
